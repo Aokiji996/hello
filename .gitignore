@@ -1,0 +1,14 @@
+# the posiible build directory
+.idea
+.vscode
+build
+cmake-build-debug
+cmake-build-release
+cmake-build-debug-coverage
+bin
+
+# the config directory
+
+# the test directory
+
+# the model directory
