@@ -2,10 +2,11 @@
 .idea
 .vscode
 build
+bin
 cmake-build-debug
 cmake-build-release
 cmake-build-debug-coverage
-bin
+
 
 # the config directory
 
